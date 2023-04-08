@@ -25,3 +25,7 @@ body > header {
 body > footer {
   font-size: 10px;
 }
+
+.center {
+  text-align: center;
+}

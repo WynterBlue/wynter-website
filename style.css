@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body > header {
+  background-color: #8FD9FF;
+}
+body{
+  background-color: #FFF9F3;
+}
+/*These target all the headers and paragraphs*/
+h1, h2, h3, p{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+a:link {color: lightblue}
+a:visited {color: red}
+a:hover {color: orange}
+a:active {color: darkblue}
+
+body > header {
+  margin:10px auto;
+  padding: 1px;
+}
+body > footer {
+  font-size: 10px;
+}
